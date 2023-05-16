@@ -1,0 +1,83 @@
+{
+    "completion": 12,
+    "need_tier": "Basic",
+    "id": "Needs",
+    "children": [
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Water",
+            "children": [
+                {
+                    "completion": 0,
+                    "need_tier": "Basic",
+                    "id": "Drinking water"
+                },
+                {
+                    "completion": 0,
+                    "need_tier": "Basic",
+                    "id": "Domestic water"
+                }
+            ]
+        },
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Food",
+            "children": [
+                {
+                    "completion": 0,
+                    "need_tier": "Basic",
+                    "id": "Ingredients"
+                },
+                {
+                    "completion": 0,
+                    "need_tier": "Basic",
+                    "id": "Ready meals"
+                }
+            ]
+        },
+        {
+            "completion": 90,
+            "need_tier": "Basic",
+            "id": "Clothing"
+        },
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Housing"
+        },
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Healthcare"
+        },
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Communication"
+        },
+        {
+            "completion": 0,
+            "need_tier": "Basic",
+            "id": "Education"
+        },
+        {
+            "completion": 6,
+            "need_tier": "Basic",
+            "id": "Transportation",
+            "children": [
+                {
+                    "completion": 0,
+                    "need_tier": "Basic",
+                    "id": "Urban"
+                },
+                {
+                    "completion": 12,
+                    "need_tier": "Basic",
+                    "id": "Freight Transport"
+                }
+            ]
+        }
+    ]
+}
